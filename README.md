@@ -38,9 +38,9 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 ----
 
-| Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |
-| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |
-| [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&listFilterMode=1) | - San Jose, CA | ✅ [Multiple Early in Career Engineering Roles](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&21181=%5B187%5D&21181_format=6023&listFilterMode=1) | Visa sponsorship might not be available | 08/11/2023 |
+| Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Posted <br> mm/dd/yyyy |  Applied  |
+| ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- |  -------  |
+| [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&listFilterMode=1) | - San Jose, CA | ✅ [Multiple Early in Career Engineering Roles](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B164%5D&21180_format=6022&21181=%5B187%5D&21181_format=6023&listFilterMode=1) | Visa sponsorship might not be available | 08/11/2023 |  
 | [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=&project=7247019463362005306&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=5MWH5CQ) | - San Jose, CA <br> - Seattle, WA <br> | ✅ [Multiple Grad SWE, Machine Learning, Research Grad, Other Tech Roles - 2024 Start (BS/MS/PhD)](https://careers.tiktok.com/position?keywords=&category=&location=CT_1103355%2CCT_157&project=7247019463362005306%2C7256965535018617148&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | Work Auth required for few roles <br> <br> *Can only apply to two new grad positions at a time during current cycle.* | 08/10/2023 |
 | [Roblox](https://corp.roblox.com/) | San Mateo, CA  |  ✅ [Software Engineer - New Grads 2024](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)|  | 08/10/2023 |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | - San Jose, CA <br> - Chicago, IL <br> - Scottsdale, AZ <br> - New York City, NY <br> - Austin, TX | ✅ [Software Engineer - Recent Graduate](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0106014?utm_source=Simplify) | Work Auth Required | 08/09/2023 |
@@ -87,7 +87,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [GE Appliances]() | Louisville, KY | 🔒 [No Longer Available] 🔒 <br> [Edison Engineering Development Program - Software]() | - | 06/07/2023 |
 | [GE Aeroespace]() | - Dayton, OH <br> - Grand Rapids, MI <br> - Clearwater, FL |  🔒 [No Longer Available] 🔒 <br> [Tech \| Software Development]() | U.S. Citizen or Permanent Resident Required. | 06/07/2023 |
 | [Blue Origin](https://www.blueorigin.com/careers) | Seattle, WA | 🔒 [No Longer Available] 🔒 <br> [Software Engineer]() <br> - Must graduate by or before Summer 2023| U.S. Citizen or Permanent Resident Required. | 06/03/2023 |
-| [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |
+| [PerPay](https://boards.greenhouse.io/perpay/jobs/4034578007) | Philadelphia, PA | ✅ [Software Engineer (SWE)](https://boards.greenhouse.io/perpay/jobs/4034578007)  | - | 05/23/2023 |  &check;
 | [BlackRock](https://careers.blackrock.com/early-careers/americas/?2023-2024#tab-id-13) | - Atlanta, GA <br> - San Francisco, CA <br> - New York, NY | ✅ [SWE, PM, Quant](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7893-Analyst-Program-Americas/en-GB) <br>- [See Desc PDF](https://static.wcn.co.uk/company/blackrock/JobDescription23/BlackRock_2023-2024_Software_Engineering_Job_Description.pdf)| - | 05/20/2023 |
 | [Adobe](https://www.adobe.com/careers/university.html) | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
@@ -121,7 +121,6 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [Zoom]() | San Jose, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 
 -END OF LIST-
-
 ----
 
 ## Good Luck
